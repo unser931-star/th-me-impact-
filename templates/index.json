@@ -102,6 +102,9 @@
         "logo_K6ABzj",
         "logo_Qqd798"
       ],
+      "custom_css": [
+        ".logo {margin: 0; /* Supprime la marge autour des images de produits */ padding: 0; /* Supprime le rembourrage dans les conteneurs d'images de produits */}"
+      ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
@@ -139,7 +142,7 @@
         "item_fmWn7F"
       ],
       "custom_css": [
-        ":host {margin-top: 0 !important; margin-bottom: 0 !important;}"
+        "h2 {padding-top: 0 !important; padding-bottom: 0 !important;}"
       ],
       "name": "Impact text POURQUOI",
       "settings": {
