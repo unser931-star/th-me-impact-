@@ -580,29 +580,53 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "1. Que sont les peptides de cuivre et comment fonctionnent-ils ?",
+            "content": "<p>Les<strong> peptides de cuivre</strong> (plus précisément le <strong>GHK-Cu</strong> ou tripeptide de cuivre-1) sont des composés naturellement présents dans notre peau qui jouent un rôle crucial dans la production de <strong>collagène</strong> et la <strong>réparation cutanée</strong>. Ils agissent en stimulant les cellules cutanées à produire davantage de collagène et d'élastine, les protéines responsables de la fermeté et de l'élasticité de la peau. Avec l'âge, le taux de peptides de cuivre diminue, contribuant ainsi au vieillissement cutané visible. Notre sérum reconstitue ces peptides essentiels pour aider à restaurer les fonctions d'une peau d'apparence plus jeune.<br/><br/></p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "2. Comment utiliser ce sérum ?",
+            "content": "<p>Appliquez <strong>3 à 4 gouttes matin et soir</strong> sur une peau propre et sèche. Tapotez délicatement le sérum sur le visage et le cou, en le laissant<strong> pénétrer complètement</strong> avant d'appliquer votre crème hydratante ou votre protection solaire. Pour un résultat optimal, <strong>utilisez-le régulièrement</strong> dans le cadre de votre routine de soin quotidienne. Une petite quantité suffit : un flacon dure généralement <strong>1 à 2 mois</strong> avec une utilisation régulière.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "3. Quand verrai-je les résultats ?",
+            "content": "<p>97% des utilisateurs constatent une meilleure hydratation et un éclat subtil <strong>dès la première semaine</strong>. Des améliorations plus significatives au niveau des ridules, du grain de peau et de la fermeté apparaissent généralement <strong>après 4 à 8 semaine</strong>s d'utilisation régulière. Les études cliniques montrent des<strong> résultats optimaux après 12 semaines</strong>. N'oubliez pas que le renouvellement cellulaire prend du temps ; la <strong>patience</strong> et la <strong>régularité</strong> sont donc essentielles pour obtenir des résultats anti-âge transformateurs.</p>"
+          }
+        },
+        "item_FBM4ft": {
+          "type": "item",
+          "settings": {
+            "title": "4. Puis-je utiliser ce produit avec d'autres produits de soin de la peau ?",
+            "content": "<p><strong>Oui !</strong> Les peptides de cuivre sont compatibles avec la plupart des soins de la peau. Appliquez-les après le nettoyage et avant votre crème hydratante. Vous pouvez les utiliser avec des <strong>sérums à l'acide hyaluronique</strong> (ou notre formule en contient déjà !), de la <strong>vitamine C</strong> (utilisez la vitamine C le matin et les peptides de cuivre le soir si vous les combinez), et du<strong> rétinol</strong> (un soir sur deux si vous utilisez les deux). Évitez toutefois de les utiliser avec des <strong>acides directs</strong> ou en même temps que des produits au <strong>pH très bas</strong>, car cela peut réduire l'efficacité des peptides.</p>"
+          }
+        },
+        "item_VpUfLa": {
+          "type": "item",
+          "settings": {
+            "title": "5. Ce produit convient-il aux peaux sensibles ?",
+            "content": "<p><strong>Absolument.</strong> Notre formule minimaliste à <strong>6 ingrédients</strong> est conçue pour être <strong>douce</strong> tout en restant <strong>hautement efficace</strong>. Nous avons exclu les irritants courants comme les parfums, les huiles essentielles, les parabènes et les sulfates. Les peptides de cuivre sont reconnus pour leurs propriétés <strong>anti-inflammatoires</strong>, faisant de ce sérum un excellent choix pour les peaux sensibles ou réactives. Comme toujours, nous recommandons d'effectuer un test cutané sur le cou avant une application sur l'ensemble du visage.</p>"
+          }
+        },
+        "item_8GV9c3": {
+          "type": "item",
+          "settings": {
+            "title": "6. Puis-je être remboursé si je ne suis pas satisfait ?",
+            "content": "<p>Bien sûr. Vous avez <strong>20 jours</strong> pour obtenir un remboursement complet, sans condition.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_FBM4ft",
+        "item_VpUfLa",
+        "item_8GV9c3"
       ],
       "settings": {
         "full_width": false,
