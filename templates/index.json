@@ -412,6 +412,10 @@
             "payment_button_text_color": ""
           }
         },
+        "conversion_bear_trust_badges_widget_HqHpjq": {
+          "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {}
+        },
         "vendor": {
           "type": "vendor",
           "settings": {}
@@ -466,6 +470,7 @@
         "rapi_bundles_rapi_bundle_cWK9Aw",
         "image_iVTr49",
         "buy-buttons",
+        "conversion_bear_trust_badges_widget_HqHpjq",
         "vendor",
         "price",
         "rating",
