@@ -670,6 +670,47 @@
         "button_background": "#f6d982",
         "button_text_color": "#1a1a1a"
       }
+    },
+    "images_with_text_scrolling_PgXKhA": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_BVtxFW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/JESSICA_FARAHI_DERMATO_de_Asterwood_a_reutiliser.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Jessica FARADHI",
+            "content": ""
+          }
+        },
+        "item_WEdt6g": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_BVtxFW",
+        "item_WEdt6g"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "fade",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -686,6 +727,7 @@
     "media_with_text_dNUrzb",
     "176848913543df1004",
     "faq",
-    "contact_LKgtYU"
+    "contact_LKgtYU",
+    "images_with_text_scrolling_PgXKhA"
   ]
 }
