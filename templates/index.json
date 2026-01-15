@@ -351,12 +351,6 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "liquid_JbThgP": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>\n    body {\n        font-family: Arial, sans-serif;\n        padding: 20px;\n        background-color: #f5f5f5;\n    }\n\n    .top-selling-badge {\n        display: flex;\n        align-items: center;\n        padding: 8px 12px;\n        border-radius: 8px;\n        font-size: 12px;\n        margin-bottom: 10px; /* Espacement entre les badges */\n        max-width: 320px;\n    }\n\n    .top-selling-badge svg {\n        margin-right: 8px;\n        width: 16px;\n        height: 16px;\n        flex-shrink: 0;\n    }\n\n    /* Premier badge bleu clair avec texte bleu foncé */\n    #badge1 {\n        background-color: #cfe8ff; /* Bleu clair */\n    }\n\n    #badge1 span {\n        color: #003366;\n        font-weight: bold;\n    }\n\n    /* Deuxième badge rouge clair semi-transparent */\n    #badge2 {\n        background-color: rgba(179, 0, 0, 0.2); /* Rouge clair transparent */\n    }\n\n    /* Texte rouge foncé clignotant doucement */\n    #badge2 span {\n        color: #b30000; /* Rouge foncé */\n        font-weight: bold;\n        animation: blink 2s infinite; /* Clignotement plus lent */\n    }\n\n    /* Animation clignotante douce */\n    @keyframes blink {\n        0%, 50%, 100% { opacity: 1; }\n        25%, 75% { opacity: 0.3; } /* Pas complètement invisible */\n    }\n</style>\n<title>Top Selling Product</title>\n</head>\n<body>\n\n    <!-- Premier badge fixe -->\n    <div class=\"top-selling-badge\" id=\"badge1\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\">\n            <path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 22 12 18.89 5.82 22 7 14.14 2 9.27l6.91-1.01L12 2z\"/>\n        </svg>\n        <span>⏰ 2 sérums achetés 1 offert à 59,99€</span>\n    </div>\n\n    <!-- Deuxième badge rouge clair avec texte rouge foncé clignotant doucement -->\n    <div class=\"top-selling-badge\" id=\"badge2\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\">\n            <path d=\"M1 12a11 11 0 1 0 22 0 11 11 0 1 0-22 0zm11-8a1 1 0 0 1 1 1v6.586l4.293 4.293a1 1 0 0 1-1.414 1.414l-5.293-5.293a1 1 0 0 1-.293-.707V5a1 1 0 0 1 1-1z\"/>\n        </svg>\n        <span>📦 Stock limité : Plus que 5 sérums en stock</span>\n    </div>\n\n</body>\n</html>"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -384,6 +378,13 @@
           "name": "Trustpilot",
           "settings": {
             "liquid": "<style>\n  .trustpilot-score {\n    display: flex;\n    align-items: baseline;   /* Aligne l'image et le texte par le bas */\n    gap: 10px;\n    margin-top: 10px;\n  }\n\n  .trustpilot-score p {\n    margin: 0;\n    font-weight: bold;\n  }\n\n  .trustpilot-score img {\n    max-width: 100px;\n    height: auto;\n  }\n</style>\n\n<div class=\"trustpilot-score\">\n  <img src=\" https://cdn.shopify.com/s/files/1/1016/0295/1432/files/trustpilot.png?v=1768486192\">\n  <p>4.8/5 Excellent</p>\n</div>"
+          }
+        },
+        "liquid_JbThgP": {
+          "type": "liquid",
+          "name": "stock limité",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>\n    body {\n        font-family: Arial, sans-serif;\n        padding: 20px;\n        background-color: #f5f5f5;\n    }\n\n    .top-selling-badge {\n        display: flex;\n        align-items: center;\n        padding: 8px 12px;\n        border-radius: 8px;\n        font-size: 12px;\n        margin-bottom: 10px; /* Espacement entre les badges */\n        max-width: 320px;\n    }\n\n    .top-selling-badge svg {\n        margin-right: 8px;\n        width: 16px;\n        height: 16px;\n        flex-shrink: 0;\n    }\n\n    /* Premier badge bleu clair avec texte bleu foncé */\n    #badge1 {\n        background-color: #cfe8ff; /* Bleu clair */\n    }\n\n    #badge1 span {\n        color: #003366;\n        font-weight: bold;\n    }\n\n    /* Deuxième badge rouge clair semi-transparent */\n    #badge2 {\n        background-color: rgba(179, 0, 0, 0.2); /* Rouge clair transparent */\n    }\n\n    /* Texte rouge foncé clignotant doucement */\n    #badge2 span {\n        color: #b30000; /* Rouge foncé */\n        font-weight: bold;\n        animation: blink 2s infinite; /* Clignotement plus lent */\n    }\n\n    /* Animation clignotante douce */\n    @keyframes blink {\n        0%, 50%, 100% { opacity: 1; }\n        25%, 75% { opacity: 0.3; } /* Pas complètement invisible */\n    }\n</style>\n<title>Top Selling Product</title>\n</head>\n<body>\n\n    <!-- Premier badge fixe -->\n    <div class=\"top-selling-badge\" id=\"badge1\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\">\n            <path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 22 12 18.89 5.82 22 7 14.14 2 9.27l6.91-1.01L12 2z\"/>\n        </svg>\n        <span>⏰ 2 sérums achetés 1 offert à 59,99€</span>\n    </div>\n\n    <!-- Deuxième badge rouge clair avec texte rouge foncé clignotant doucement -->\n    <div class=\"top-selling-badge\" id=\"badge2\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\">\n            <path d=\"M1 12a11 11 0 1 0 22 0 11 11 0 1 0-22 0zm11-8a1 1 0 0 1 1 1v6.586l4.293 4.293a1 1 0 0 1-1.414 1.414l-5.293-5.293a1 1 0 0 1-.293-.707V5a1 1 0 0 1 1-1z\"/>\n        </svg>\n        <span>📦 Stock limité : Plus que 5 sérums en stock</span>\n    </div>\n\n</body>\n</html>"
           }
         },
         "vendor": {
@@ -442,12 +443,12 @@
         }
       },
       "block_order": [
-        "liquid_JbThgP",
         "title",
         "text_tkXRaH",
         "text_3CzWKz",
         "badges",
         "liquid_G4XEtq",
+        "liquid_JbThgP",
         "vendor",
         "price",
         "rating",
