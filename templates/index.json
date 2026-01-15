@@ -424,6 +424,14 @@
             "max_width": 500
           }
         },
+        "image_JcTAXT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mieux_sans_14j.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "vendor": {
           "type": "vendor",
           "settings": {}
@@ -480,6 +488,7 @@
         "buy-buttons",
         "conversion_bear_trust_badges_widget_HqHpjq",
         "image_GRKwXU",
+        "image_JcTAXT",
         "vendor",
         "price",
         "rating",
