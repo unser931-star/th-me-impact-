@@ -743,22 +743,12 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Ehomir S.",
-            "content": "<p>Dermatologue spécialiste en acné </p>"
-          }
-        },
-        "item_hkke6U": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "",
-            "content": "<h4>\"En tant que dermatologue, je suis toujours à la recherche de solutions efficaces pour mes patients souffrant d'acné. Ce produit a surpassé mes attentes et je le recommande vivement.\"</h4>"
+            "content": "<p>Dermatologue spécialiste en acné </p><h4>\"En tant que dermatologue, je suis toujours à la recherche de solutions efficaces pour mes patients souffrant d'acné. Ce produit a surpassé mes attentes et je le recommande vivement.\"</h4>"
           }
         }
       },
       "block_order": [
-        "item_kDjg9D",
-        "item_hkke6U"
+        "item_kDjg9D"
       ],
       "name": "Images and text scrolling",
       "settings": {
