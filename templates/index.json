@@ -351,15 +351,21 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h1"
           }
+        },
+        "text_tkXRaH": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>✨Les avantages du GHK-Cu</h3>"
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "settings": {}
         },
         "badges": {
           "type": "badges",
@@ -417,8 +423,9 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
+        "text_tkXRaH",
+        "vendor",
         "badges",
         "price",
         "rating",
