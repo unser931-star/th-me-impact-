@@ -28,7 +28,7 @@
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
-            "overlay_color": "#ffffffff",
+            "overlay_color": "#ffffff",
             "overlay_opacity": 7,
             "background": "",
             "background_gradient": ""
@@ -113,7 +113,7 @@
         "content": "<h1><strong>Vu sur : </strong></h1>",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#ffffffff",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -212,7 +212,7 @@
           "settings": {
             "video": "shopify://files/videos/video pour site methode application 3.mov",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
@@ -225,7 +225,7 @@
           "settings": {
             "video": "shopify://files/videos/video pour site methode d'utilisation 2.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
@@ -238,7 +238,7 @@
           "settings": {
             "video": "shopify://files/videos/video pour site methode d'utilisation 4.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
