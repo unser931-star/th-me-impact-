@@ -732,6 +732,47 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "images_with_text_scrolling_UaRYP4": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_kDjg9D": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_15_janv._2026_a_19_15_02.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Ehomir S.",
+            "content": "<p>Dermatologue spécialiste en acné </p>"
+          }
+        },
+        "item_hkke6U": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": "<h4>\"En tant que dermatologue, je suis toujours à la recherche de solutions efficaces pour mes patients souffrant d'acné. Ce produit a surpassé mes attentes et je le recommande vivement.\"</h4>"
+          }
+        }
+      },
+      "block_order": [
+        "item_kDjg9D",
+        "item_hkke6U"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "fade",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -750,6 +791,7 @@
     "faq",
     "contact_LKgtYU",
     "images_with_text_scrolling_PgXKhA",
-    "images_with_text_scrolling_Ub9zwE"
+    "images_with_text_scrolling_Ub9zwE",
+    "images_with_text_scrolling_UaRYP4"
   ]
 }
