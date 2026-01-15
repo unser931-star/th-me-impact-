@@ -125,13 +125,13 @@
         "item_fmWn7F": {
           "type": "item",
           "settings": {
-            "title": "Pourquoi choisir",
-            "subheading": "Showcase a benefit of your product",
+            "title": "Pourquoi choisir DELACNE ?",
+            "subheading": "",
             "content": "",
             "button_text": "",
             "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 1
           }
         }
       },
@@ -139,9 +139,9 @@
         "item_fmWn7F"
       ],
       "custom_css": [
-        ".logo {margin: 0; /* Supprime la marge autour des images de produits */ padding: 0; /* Supprime le rembourrage dans les conteneurs d'images de produits */}"
+        "h2 {margin: 0 !important;}"
       ],
-      "name": "Impact text",
+      "name": "Impact text POURQUOI",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
