@@ -142,7 +142,7 @@
         "item_fmWn7F"
       ],
       "custom_css": [
-        "h2 {padding-top: 0 !important; padding-bottom: 0 !important;}"
+        ":host {margin-top: 0 !important; margin-bottom: 0 !important;}"
       ],
       "name": "Impact text POURQUOI",
       "settings": {
@@ -159,6 +159,49 @@
         "text_color": "#000000",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_DqaY4L": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_UVNbG9": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_HRU69y": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_BUNVLJ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_UVNbG9",
+        "heading_HRU69y",
+        "richtext_BUNVLJ"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Gemini_Generated_Image_m9spqm9spqm9spqm.png",
+        "mobile_image": "shopify://shop_images/Gemini_Generated_Image_m9spqm9spqm9spqm.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#fbfbfb",
+        "overlay_opacity": 0
       }
     },
     "image-link-blocks": {
@@ -859,6 +902,7 @@
     "slideshow",
     "logo_list_3fFEm9",
     "impact_text_P8pdqb",
+    "image_with_text_overlay_DqaY4L",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
