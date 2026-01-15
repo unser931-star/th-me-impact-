@@ -31,7 +31,7 @@
     "heading_font_size": "large",
     "heading_letter_spacing": -2,
     "text_font": "din_next_n4",
-    "heading_apparition": "split_fade",
+    "heading_apparition": "split_clip",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "cart_icon": "tote_bag",
