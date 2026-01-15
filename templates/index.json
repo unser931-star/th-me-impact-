@@ -363,12 +363,25 @@
             "text": "<h3>✨Les avantages du GHK-Cu</h3>"
           }
         },
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
+        "text_3CzWKz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✓ Raffermit et tonifie la peau </p><p>✓ Atténue les cicatrices d'acné et lisse la peau </p><p>✓ Hydrate en profondeur pour un teint éclatant</p><p>✓ Léger et non gras </p><p>✓ Convient à tous types de peau </p>"
+          }
         },
         "badges": {
           "type": "badges",
+          "settings": {}
+        },
+        "liquid_G4XEtq": {
+          "type": "liquid",
+          "name": "Trustpilot",
+          "settings": {
+            "liquid": "<style>\n  .trustpilot-score {\n    display: flex;\n    align-items: baseline;   /* Aligne l'image et le texte par le bas */\n    gap: 10px;\n    margin-top: 10px;\n  }\n\n  .trustpilot-score p {\n    margin: 0;\n    font-weight: bold;\n  }\n\n  .trustpilot-score img {\n    max-width: 100px;\n    height: auto;\n  }\n</style>\n\n<div class=\"trustpilot-score\">\n  <img src=\" https://cdn.shopify.com/s/files/1/1016/0295/1432/files/trustpilot.png?v=1768486192\">\n  <p>4.8/5 Excellent</p>\n</div>"
+          }
+        },
+        "vendor": {
+          "type": "vendor",
           "settings": {}
         },
         "price": {
@@ -425,8 +438,10 @@
       "block_order": [
         "title",
         "text_tkXRaH",
-        "vendor",
+        "text_3CzWKz",
         "badges",
+        "liquid_G4XEtq",
+        "vendor",
         "price",
         "rating",
         "separator",
