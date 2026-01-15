@@ -318,7 +318,8 @@
       "empty": "Votre panier est vide",
       "item_count": {
         "one": "{{ count }} article",
-        "other": "{{ count }} articles"
+        "other": "{{ count }} articles",
+        "zero": "Votre panier est vide"
       },
       "continue_shopping": "Explorer nos produits",
       "weight": "Poids",
