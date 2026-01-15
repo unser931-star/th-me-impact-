@@ -416,6 +416,14 @@
           "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
           "settings": {}
         },
+        "image_GRKwXU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TRUST_CTA_REDIMENSIONNER_AVEC_CAPTURE.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "vendor": {
           "type": "vendor",
           "settings": {}
@@ -471,6 +479,7 @@
         "image_iVTr49",
         "buy-buttons",
         "conversion_bear_trust_badges_widget_HqHpjq",
+        "image_GRKwXU",
         "vendor",
         "price",
         "rating",
