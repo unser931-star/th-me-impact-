@@ -57,34 +57,39 @@
         "logo_BBKx7w": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/beauty.png",
+            "logo_width": 200,
             "link": ""
           }
         },
         "logo_jd6rVQ": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/cosmetics.png",
+            "logo_width": 200,
             "link": ""
           }
         },
         "logo_n3UgN3": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/topsante.jpg",
+            "logo_width": 150,
             "link": ""
           }
         },
         "logo_K6ABzj": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/lhomme.png",
+            "logo_width": 200,
             "link": ""
           }
         },
         "logo_Qqd798": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/gq.png",
             "logo_width": 120,
             "link": ""
           }
