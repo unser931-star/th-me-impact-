@@ -283,7 +283,9 @@
           "settings": {
             "show_sample_reviews": true,
             "reviews_selection": "all",
-            "products": [],
+            "products": [
+              "reprendre-le-controle-de-ton-reflet-grace-au-ghk-cu"
+            ],
             "star_rating": "all",
             "show_review_media": true,
             "display_order": "media_first",
