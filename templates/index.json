@@ -119,6 +119,45 @@
         "logo_item_border": ""
       }
     },
+    "impact_text_P8pdqb": {
+      "type": "impact-text",
+      "blocks": {
+        "item_fmWn7F": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_fmWn7F"
+      ],
+      "custom_css": [
+        ".logo {margin: 0; /* Supprime la marge autour des images de produits */ padding: 0; /* Supprime le rembourrage dans les conteneurs d'images de produits */}"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.5,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "#000000",
+        "heading_gradient": "",
+        "text_color": "#000000",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -816,6 +855,7 @@
   "order": [
     "slideshow",
     "logo_list_3fFEm9",
+    "impact_text_P8pdqb",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
