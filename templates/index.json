@@ -523,7 +523,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_15_janv._2026_a_19_12_40.png",
-            "media_width": 35,
+            "media_width": 40,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
