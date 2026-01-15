@@ -681,7 +681,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Jessica FARADHI",
-            "content": ""
+            "content": "<h4>Dermatologue </h4><h4>\"J'utilise personnellement ces produits et les recommande à mes patients depuis plusieurs années. Les actifs à base de tripeptides de cuivre (GHK-Cu), associés à l'acide hyaluronique, se révèlent hautement efficaces tant pour le traitement de l'acné que pour favoriser la régénération cellulaire cutanée.\"</h4>"
           }
         }
       },
@@ -692,7 +692,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "show_counter": true,
+        "show_counter": false,
         "desktop_image_effect": "fade",
         "image_position": "start",
         "background": "",
@@ -723,7 +723,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "show_counter": true,
+        "show_counter": false,
         "desktop_image_effect": "fade",
         "image_position": "end",
         "background": "",
@@ -754,7 +754,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "show_counter": true,
+        "show_counter": false,
         "desktop_image_effect": "fade",
         "image_position": "start",
         "background": "",
