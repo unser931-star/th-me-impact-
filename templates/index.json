@@ -139,7 +139,7 @@
         "item_fmWn7F"
       ],
       "custom_css": [
-        "h2 {margin: 0 !important;}"
+        ":host {margin-top: 0 !important; margin-bottom: 0 !important;}"
       ],
       "name": "Impact text POURQUOI",
       "settings": {
