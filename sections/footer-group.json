@@ -93,7 +93,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Inscrivez vous pour recevoir nos offres et actualités",
             "content": ""
           }
         },
@@ -108,8 +108,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Nous contacter",
+            "content": "<p>Service client : contact@delacne.com  </p><p>Horaires : du Lundi au Vendredi de 9h à 12h et de 14h à 18h / Samedi et Dimanche de 10h à 12h</p>",
             "enable_follow_on_shop": true
           }
         }
