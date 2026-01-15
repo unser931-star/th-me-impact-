@@ -401,6 +401,17 @@
             "max_width": 450
           }
         },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#f83a3a",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
         "vendor": {
           "type": "vendor",
           "settings": {}
@@ -443,17 +454,6 @@
         "quantity-selector": {
           "type": "quantity_selector",
           "settings": {}
-        },
-        "buy-buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
         }
       },
       "block_order": [
@@ -465,14 +465,14 @@
         "liquid_JbThgP",
         "rapi_bundles_rapi_bundle_cWK9Aw",
         "image_iVTr49",
+        "buy-buttons",
         "vendor",
         "price",
         "rating",
         "separator",
         "description",
         "variant-picker",
-        "quantity-selector",
-        "buy-buttons"
+        "quantity-selector"
       ],
       "custom_css": [
         ".section-featured-collection .card,.section-featured-products .card {pointer-events: none; cursor: default;}"
