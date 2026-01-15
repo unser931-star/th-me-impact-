@@ -683,20 +683,10 @@
             "title": "Jessica FARADHI",
             "content": ""
           }
-        },
-        "item_WEdt6g": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
-        "item_BVtxFW",
-        "item_WEdt6g"
+        "item_BVtxFW"
       ],
       "name": "Images and text scrolling",
       "settings": {
@@ -705,6 +695,37 @@
         "show_counter": true,
         "desktop_image_effect": "fade",
         "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_Ub9zwE": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_qEz6Pa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/flaque_avec_les_ingredient_a806f249-d388-4cea-8e03-5f82a68cd02f.jpg",
+            "icon": "none",
+            "icon_width": 80,
+            "title": "Le Sérum GHK-Cu",
+            "content": "<p>Formulé avec des ingrédients recommandés par les dermatologues, <strong>le sérum peptidique Deloura GHK-Cu</strong> soutient le processus naturel de réparation de la peau tout en restant doux pour les peaux sensibles et à tendance acnéique.</p><p>Le GHK-Cu est l'un des peptides les plus étudiés en dermatologie pour améliorer l'aspect de la texture, de la fermeté et des marques post-acnéiques, ce qui en fait une option fiable pour celles et ceux qui recherchent une peau plus nette, plus lisse et plus résistante.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_qEz6Pa"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "fade",
+        "image_position": "end",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -728,6 +749,7 @@
     "176848913543df1004",
     "faq",
     "contact_LKgtYU",
-    "images_with_text_scrolling_PgXKhA"
+    "images_with_text_scrolling_PgXKhA",
+    "images_with_text_scrolling_Ub9zwE"
   ]
 }
