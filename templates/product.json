@@ -12,10 +12,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "image_ymerGx": {
+        "image_wwtTKq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/TRUST_CTA_REDIMENSIONNER_AVEC_CAPTURE.png",
+            "image": "shopify://shop_images/Mieux_sans_14j.webp",
             "alignment": "center",
             "max_width": 500
           }
@@ -86,10 +86,18 @@
         "conversion_bear_trust_badges_widget_K4GWWa": {
           "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
           "settings": {}
+        },
+        "image_ymerGx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TRUST_CTA_REDIMENSIONNER_AVEC_CAPTURE.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
-        "image_ymerGx",
+        "image_wwtTKq",
         "title",
         "text_NNt8x8",
         "text_4xFywq",
@@ -100,7 +108,8 @@
         "rapi_bundles_rapi_bundle_cpqMtg",
         "image_FaEMGX",
         "buy_buttons",
-        "conversion_bear_trust_badges_widget_K4GWWa"
+        "conversion_bear_trust_badges_widget_K4GWWa",
+        "image_ymerGx"
       ],
       "settings": {
         "full_width": true,
