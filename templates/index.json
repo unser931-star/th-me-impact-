@@ -48,7 +48,7 @@
         "autoplay": false,
         "cycle_speed": 6,
         "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(54deg, rgba(NaN, NaN, NaN, 0) 3%, rgba(255, 250, 99, 1) 85%, rgba(255, 250, 99, 1) 85%)"
+        "background_gradient": ""
       }
     },
     "logo_list_3fFEm9": {
