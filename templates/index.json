@@ -298,7 +298,7 @@
             "stars_color": "",
             "arrows_color": "#000000",
             "transition_speed": 5,
-            "header_text": "Des résultats concrets",
+            "header_text": "",
             "show_average_rating": true
           }
         }
