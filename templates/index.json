@@ -432,7 +432,7 @@
         ".section-featured-collection .card,.section-featured-products .card {pointer-events: none; cursor: default;}"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "product": "reprendre-le-controle-de-ton-reflet-grace-au-ghk-cu",
         "desktop_media_width": 65,
         "desktop_media_layout": "carousel_thumbnails_left",
@@ -551,7 +551,7 @@
         "item_qEz6Pa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/flaque_avec_les_ingredient_a806f249-d388-4cea-8e03-5f82a68cd02f.jpg",
+            "image": "shopify://shop_images/flaque_avec_les_ingredient_d623faee-1a40-4dc2-8340-295a340ea0a0.jpg",
             "icon": "none",
             "icon_width": 80,
             "title": "Le Sérum GHK-Cu",
