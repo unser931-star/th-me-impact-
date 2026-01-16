@@ -404,18 +404,18 @@
           "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
           "settings": {}
         },
-        "image_GRKwXU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/TRUST_CTA_REDIMENSIONNER_AVEC_CAPTURE.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
         "image_JcTAXT": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Mieux_sans_14j.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_GRKwXU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TRUST_CTA_REDIMENSIONNER_AVEC_CAPTURE.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -434,8 +434,8 @@
         "image_iVTr49",
         "buy-buttons",
         "conversion_bear_trust_badges_widget_HqHpjq",
-        "image_GRKwXU",
-        "image_JcTAXT"
+        "image_JcTAXT",
+        "image_GRKwXU"
       ],
       "custom_css": [
         ".section-featured-collection .card,.section-featured-products .card {pointer-events: none; cursor: default;}"
