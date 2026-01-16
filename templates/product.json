@@ -12,12 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "image_FaEMGX": {
+        "image_ymerGx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/commentaire_avec_photo_prod.jpg",
+            "image": "shopify://shop_images/TRUST_CTA_REDIMENSIONNER_AVEC_CAPTURE.png",
             "alignment": "center",
-            "max_width": 450
+            "max_width": 500
           }
         },
         "title": {
@@ -64,63 +64,32 @@
             "product": "{{product}}"
           }
         },
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
+        "image_FaEMGX": {
+          "type": "image",
           "settings": {
-            "show_taxes_notice": false
+            "image": "shopify://shop_images/commentaire_avec_photo_prod.jpg",
+            "alignment": "center",
+            "max_width": 450
           }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "atc_button_background": "#f83a3a",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "conversion_bear_trust_badges_widget_K4GWWa": {
+          "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {}
         }
       },
       "block_order": [
-        "image_FaEMGX",
+        "image_ymerGx",
         "title",
         "text_NNt8x8",
         "text_4xFywq",
@@ -129,14 +98,9 @@
         "liquid_AGQQgD",
         "separator",
         "rapi_bundles_rapi_bundle_cpqMtg",
-        "vendor",
-        "price",
-        "rating",
-        "payment_terms",
-        "description",
-        "variant_picker",
-        "quantity_selector",
-        "buy_buttons"
+        "image_FaEMGX",
+        "buy_buttons",
+        "conversion_bear_trust_badges_widget_K4GWWa"
       ],
       "settings": {
         "full_width": true,
