@@ -75,7 +75,7 @@
         "transparent_header_text_color": "#ffffff",
         "transparent_logo": "shopify://shop_images/DELACNE-logo_b6ffad8b-b383-4cf6-9390-7ee6818fa41a.png",
         "reduce_padding": true,
-        "background_opacity": 66,
+        "background_opacity": 50,
         "background_blur_radius": 2
       }
     }
