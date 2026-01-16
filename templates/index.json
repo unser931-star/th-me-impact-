@@ -85,22 +85,13 @@
             "logo_width": 200,
             "link": ""
           }
-        },
-        "logo_Qqd798": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/gq.png",
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
         "logo_BBKx7w",
         "logo_jd6rVQ",
         "logo_n3UgN3",
-        "logo_K6ABzj",
-        "logo_Qqd798"
+        "logo_K6ABzj"
       ],
       "custom_css": [
         ".logo {margin: 0; /* Supprime la marge autour des images de produits */ padding: 0; /* Supprime le rembourrage dans les conteneurs d'images de produits */}"
