@@ -394,14 +394,6 @@
             "alignment": "center",
             "max_width": 500
           }
-        },
-        "image_GRKwXU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/TRUST_CTA_REDIMENSIONNER_AVEC_CAPTURE.png",
-            "alignment": "center",
-            "max_width": 500
-          }
         }
       },
       "block_order": [
@@ -416,8 +408,7 @@
         "image_iVTr49",
         "buy-buttons",
         "conversion_bear_trust_badges_widget_HqHpjq",
-        "image_JcTAXT",
-        "image_GRKwXU"
+        "image_JcTAXT"
       ],
       "custom_css": [
         ".section-featured-collection .card,.section-featured-products .card {pointer-events: none; cursor: default;}"
