@@ -164,5 +164,11 @@
       "product_color_display": "swatch",
       "product_info_alignment": "center"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "/* Pleine largeur sur desktop, petites marges sur mobile */@media (min-width: 750px) {.container, .page-width {max-width: 100% !important; padding-left: 0 !important; padding-right: 0 !important; }}",
+      "@media (max-width: 749px) {.container, .page-width {padding-left: 10px !important; padding-right: 10px !important; }}"
+    ]
   }
 }
