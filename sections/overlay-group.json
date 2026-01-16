@@ -35,11 +35,13 @@
       "type": "cart-drawer",
       "settings": {
         "show_cart_note": true,
-        "show_shipping_text": true,
+        "show_shipping_text": false,
         "show_view_cart_button": true,
         "show_checkout_button": true,
-        "recommendations_title": "Trending this month",
-        "products": [],
+        "recommendations_title": "Tendance ce mois-ci",
+        "products": [
+          "reprendre-le-controle-de-ton-reflet-grace-au-ghk-cu"
+        ],
         "product_card_background": "#f2f2f2",
         "product_card_text_color": ""
       }
