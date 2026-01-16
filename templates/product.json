@@ -12,14 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "image_wwtTKq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Mieux_sans_14j.webp",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -94,10 +86,17 @@
             "alignment": "center",
             "max_width": 500
           }
+        },
+        "image_wwtTKq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mieux_sans_14j.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
-        "image_wwtTKq",
         "title",
         "text_NNt8x8",
         "text_4xFywq",
@@ -109,7 +108,8 @@
         "image_FaEMGX",
         "buy_buttons",
         "conversion_bear_trust_badges_widget_K4GWWa",
-        "image_ymerGx"
+        "image_ymerGx",
+        "image_wwtTKq"
       ],
       "settings": {
         "full_width": true,
