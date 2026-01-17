@@ -1080,20 +1080,6 @@ scroll-carousel {
   display: grid;
   position: absolute;
 }
-/* Impact - Full width layout */
-.page-width {
-  max-width: 100% !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
-.container,
-.container--narrow,
-.container--large {
-  max-width: 100% !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
 
 :is(.drawer, .popover)::part(close-button) {
   color: currentColor;
