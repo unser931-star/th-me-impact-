@@ -358,12 +358,6 @@
           "type": "separator",
           "settings": {}
         },
-        "rapi_bundles_rapi_bundle_cWK9Aw": {
-          "type": "shopify://apps/rapi-bundles/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "image_iVTr49": {
           "type": "image",
           "settings": {
@@ -404,7 +398,6 @@
         "liquid_G4XEtq",
         "liquid_JbThgP",
         "separator",
-        "rapi_bundles_rapi_bundle_cWK9Aw",
         "image_iVTr49",
         "buy-buttons",
         "conversion_bear_trust_badges_widget_HqHpjq",
