@@ -474,28 +474,6 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "176848913543df1004": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_8W3rit": {
-          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_8W3rit"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "images_with_text_scrolling_PgXKhA": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -556,6 +534,28 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "176848913543df1004": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_8W3rit": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_8W3rit"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq": {
@@ -667,9 +667,9 @@
     "featured-product",
     "tabs_WwJqK7",
     "before-after-image",
-    "176848913543df1004",
     "images_with_text_scrolling_PgXKhA",
     "images_with_text_scrolling_Ub9zwE",
+    "176848913543df1004",
     "faq",
     "contact_LKgtYU"
   ]
