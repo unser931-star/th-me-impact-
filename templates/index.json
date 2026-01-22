@@ -275,7 +275,7 @@
             "show_sample_reviews": true,
             "reviews_selection": "all",
             "products": [
-              "reprendre-le-controle-de-ton-reflet-grace-au-ghk-cu"
+              "serum-ghk-cu"
             ],
             "star_rating": "all",
             "show_review_media": true,
@@ -408,7 +408,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "reprendre-le-controle-de-ton-reflet-grace-au-ghk-cu",
+        "product": "serum-ghk-cu",
         "desktop_media_width": 65,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
